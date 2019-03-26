@@ -6,4 +6,6 @@
 This is not my code!
 I copied from others just for checking!
 (source : https://leetcode.com/problems/factorial-trailing-zeroes/discuss/52373/Simple-CC%2B%2B-Solution-(with-detailed-explaination))
+
+2019.3.26 #771 Jewels and Stones
 ```
