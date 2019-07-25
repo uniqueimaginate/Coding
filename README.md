@@ -24,9 +24,19 @@ I copied from others just for checking!
 2019.7.25 acmicpc.net #11721
 (source : https://www.acmicpc.net/problem/11721)
 
+2019.7.25 acmicpc.net #1924
+(source : https://www.acmicpc.net/problem/2445)
 
+2019.7.25 acmicpc.net #2445
+(source : https://www.acmicpc.net/problem/2445)
 
-
-
-
+2019.7.25 acmicpc.net #1463
+(source : https://www.acmicpc.net/problem/1463)
 ```
+
+
+
+
+
+
+
