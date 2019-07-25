@@ -1,15 +1,14 @@
 #include <cstdio>
-
+#include <cstring>
 int main()
 {
-    int num;
-    int total = 0;
-    scanf("%d", &num);
-    for(int i=0; i<num; i++){
-        int temp = 0;
-        scanf("%1d", &temp);
-        total += temp;
+    char arr[100];
+    scanf("%s", arr);
+    printf("%c", arr[0]);
+
+    for(int i=1; i<strlen(arr); i++){
+        if (i%10==0)
+            printf("\n");
+        printf("%c", arr[i]);
     }
-    
-    printf("%d", total);
 }
