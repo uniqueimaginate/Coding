@@ -45,7 +45,14 @@ I copied from others just for checking!
 2019.9.7 acmicpc.net #10844 DP
 (source : https://www.acmicpc.net/problem/10844)
 
+2019.9.7 acmicpc.net #11057 DP
+(source : https://www.acmicpc.net/problem/11057)
 
+2019.9.7 acmicpc.net #2193 DP
+(source : https://www.acmicpc.net/problem/2193)
+
+2019.9.7 acmicpc.net #9465 DP
+(source : https://www.acmicpc.net/problem/9465)
 ```
 
 
