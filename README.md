@@ -1,7 +1,7 @@
 ## This is a repository which i is my PLAYGROUND!
 ### Donguk Lee (uniqueimaginate@gmail.com)
 
-```
+```markdown
 2019.3.25 Leetcode #172 Factorial Trailing Zeroes
 This is not my code!
 I copied from others just for checking!
@@ -39,6 +39,11 @@ I copied from others just for checking!
 2019.9.4 acmicpc.net 	#11727 DP
 (source : https://www.acmicpc.net/problem/11727)
 
+2019.9.5 acmicpc.net #9095 DP
+(source : https://www.acmicpc.net/problem/9095)
+
+2019.9.7 acmicpc.net #10844 DP
+(source : https://www.acmicpc.net/problem/10844)
 
 
 ```
