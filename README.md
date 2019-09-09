@@ -53,6 +53,13 @@ I copied from others just for checking!
 
 2019.9.7 acmicpc.net #9465 DP
 (source : https://www.acmicpc.net/problem/9465)
+
+2019.9.9 acmicpc.net #2165 DP
+(source : https://www.acmicpc.net/problem/2165)
+
+2019.9.9 acmicpc.net #11053 DP
+(source : https://www.acmicpc.net/problem/11053)
+
 ```
 
 
