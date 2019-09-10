@@ -60,6 +60,9 @@ I copied from others just for checking!
 2019.9.9 acmicpc.net #11053 DP
 (source : https://www.acmicpc.net/problem/11053)
 
+2019.9.10 acmicpc.net #11055 DP
+(source : https://www.acmicpc.net/problem/11055)
+
 ```
 
 
