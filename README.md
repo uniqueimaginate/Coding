@@ -68,4 +68,7 @@ I copied from others just for checking!
 
 22. 2019.9.12 swexpertacademy.com #8501 DP
 (source : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWz50CHK8DgDFARQ&categoryId=AWz50CHK8DgDFARQ&categoryType=CODE#)
+
+23. 2019.9.13 acmicpc.net #11054 DP
+(source : https://www.acmicpc.net/problem/11054)
 ```
