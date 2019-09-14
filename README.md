@@ -75,5 +75,7 @@ I copied from others just for checking!
 24. 2019.9.13 acmicpc.net #1912 DP
 (source : https://www.acmicpc.net/problem/1912)
 
+25. 2019.9.14 acmicpc.net #2579 DP
+(source : https://www.acmicpc.net/problem/2579)
 
 ```
