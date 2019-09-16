@@ -81,4 +81,7 @@ I copied from others just for checking!
 26. 2019.9.14 acmicpc.net #1669 DP
 (source : https://www.acmicpc.net/problem/1669)
 
+27. 2019.9.15 acmicpc.net #2133 DP
+(source : https://www.acmicpc.net/problem/2133)
+
 ```
