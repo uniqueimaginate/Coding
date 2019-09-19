@@ -90,4 +90,10 @@ I copied from others just for checking!
 29. 2019.9.17 acmicpc.net #2225 DP
 (source : https://www.acmicpc.net/problem/2225)
 
+30. 2019.9.18 acmicpc.net #2011 DP
+(source : https://www.acmicpc.net/problem/2011)
+
+31. 2019.9.19 acmicpc.net #2011 DP
+(source : https://www.acmicpc.net/problem/2011)
+
 ```
