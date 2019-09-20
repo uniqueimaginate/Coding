@@ -1,4 +1,4 @@
-## This is a repository which i is my PLAYGROUND!
+## This is a repository which is my PLAYGROUND!
 ### Donguk Lee (uniqueimaginate@gmail.com)
 
 ```markdown
@@ -93,7 +93,10 @@ I copied from others just for checking!
 30. 2019.9.18 acmicpc.net #2011 DP
 (source : https://www.acmicpc.net/problem/2011)
 
-31. 2019.9.19 acmicpc.net #2011 DP
-(source : https://www.acmicpc.net/problem/2011)
+31. 2019.9.19 acmicpc.net #11052 DP
+(source : https://www.acmicpc.net/problem/11052)
+
+32. 2019.9.20 acmicpc.net #10808 Array
+(source : https://www.acmicpc.net/problem/10808)
 
 ```
