@@ -12,7 +12,7 @@ I copied from others just for checking!
 3. 2019.5.7 Programmers.co.kr # K'th_number
 (source : https://programmers.co.kr/learn/courses/30/lessons/42748)
 
-4. 2019.7.19 acmicpc.net #2609 GCD, LCM
+4. 2019.7.19, 2019.9.25.v2 acmicpc.net #2609 GCD, LCM
 (source : https://www.acmicpc.net/problem/2609)
 
 5. 2019.7.25 acmicpc.net #11718 IO
@@ -98,5 +98,14 @@ I copied from others just for checking!
 
 32. 2019.9.20 acmicpc.net #10808 Array
 (source : https://www.acmicpc.net/problem/10808)
+
+33. 2019.9.20 acmicpc.net #1406 Array
+(source : https://www.acmicpc.net/problem/1406)
+
+34. 2019.9.25 acmicpc.net #13241 GCD, LCM
+(source : https://www.acmicpc.net/problem/13241)
+
+35. 2019.9.25 acmicpc.net #1850 GCD
+(source : https://www.acmicpc.net/problem/1850)
 
 ```
