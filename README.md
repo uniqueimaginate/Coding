@@ -108,4 +108,7 @@ I copied from others just for checking!
 35. 2019.9.25 acmicpc.net #1850 GCD
 (source : https://www.acmicpc.net/problem/1850)
 
+36. 2019.9.25 acmicpc.net #2960 Prime Number
+(source : https://www.acmicpc.net/problem/2960)
+
 ```
