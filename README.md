@@ -111,4 +111,7 @@ I copied from others just for checking!
 36. 2019.9.25 acmicpc.net #2960 Prime Number
 (source : https://www.acmicpc.net/problem/2960)
 
+37. 2019.9.25 acmicpc.net #1929 Prime Number
+(source : https://www.acmicpc.net/problem/1929)
+
 ```
