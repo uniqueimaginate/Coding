@@ -114,4 +114,11 @@ I copied from others just for checking!
 37. 2019.9.25 acmicpc.net #1929 Prime Number
 (source : https://www.acmicpc.net/problem/1929)
 
+38. 2019.9.26 acmicpc.net #1629 Div & Conq
+(source : https://www.acmicpc.net/problem/1629)
+
+39. 2019.9.26 acmicpc.net #2749 Div & Conq
+(source : https://www.acmicpc.net/problem/2749)
+
+
 ```
