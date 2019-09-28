@@ -121,4 +121,10 @@ I copied from others just for checking!
 (source : https://www.acmicpc.net/problem/2749)
 
 
+40. 2019.9.28 acmicpc.net #2577 Array
+(source : https://www.acmicpc.net/problem/2577)
+
+41. 2019.9.28 acmicpc.net #1475 Array
+(source : https://www.acmicpc.net/problem/1475)
+
 ```
