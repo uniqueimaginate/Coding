@@ -5,13 +5,12 @@
 
 > [**Input & Output**](IO/IO.md)
 >
-> [**Math**](Coding/Math/Math.md)
+> [**Math**](Math/Math.md)
 >
-> [**Array & Stack & Queue & List**](Coding/Arr&Stck&Que&Lst/Arr&Stck&Que&Lst.md)
+> [**Array & Stack & Queue & List**](Arr&Stck&Que&Lst/Arr&Stck&Que&Lst.md)
 >
-> [**Dynamic Programming**](Coding/DP/DP.md)
+> [**Dynamic Programming**](DP/DP.md)
 >
-> [**Divde & Conquer**](Coding/Div&Conq/Div&Conq.md)
+> [**Divde & Conquer**](Div&Conq/Div&Conq.md)
 >
-> [**etc**](Coding/etc/etc.md)
-
+> [**etc**](etc/etc.md)
