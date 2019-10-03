@@ -1,8 +1,6 @@
 ## This is a repository which is my PLAYGROUND!
 ### Donguk Lee (uniqueimaginate@gmail.com)
 
-#### Total 44 Problems
-
 > [**Input & Output**](IO/IO.md)
 >
 > [**Math**](Math/Math.md)

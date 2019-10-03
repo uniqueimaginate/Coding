@@ -69,4 +69,7 @@
 23. 2019.10.2 acmicpc.net #1904 DP
 (source : https://www.acmicpc.net/problem/1904)
 
+24. 2019.10.3 acmicpc.net #14501 DP
+(source : https://www.acmicpc.net/problem/14501)
+
 ```
