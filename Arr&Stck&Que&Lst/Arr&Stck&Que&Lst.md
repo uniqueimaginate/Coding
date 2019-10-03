@@ -17,4 +17,8 @@
 
 6. 2019.9.30 acmicpc.net #5397 List
 (source : https://www.acmicpc.net/problem/5397)
+
+7. 2019.10.3 acmicpc.net #10828 Stack
+(source : https://www.acmicpc.net/problem/10828)
+
 ```
