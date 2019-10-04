@@ -21,4 +21,10 @@
 7. 2019.10.3 acmicpc.net #10828 Stack
 (source : https://www.acmicpc.net/problem/10828)
 
+8. 2019.10.4 acmicpc.net #10845 Queue
+(source : https://www.acmicpc.net/problem/10845)
+
+9. 2019.10.4 acmicpc.net #10866 Stack
+(source : https://www.acmicpc.net/problem/10866)
+
 ```
