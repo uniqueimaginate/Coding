@@ -27,4 +27,7 @@
 9. 2019.10.4 acmicpc.net #10866 Stack
 (source : https://www.acmicpc.net/problem/10866)
 
+10. 2019.10.5 acmicpc.net #1874 Stack
+(source : https://www.acmicpc.net/problem/1874)
+
 ```
