@@ -9,6 +9,6 @@
 >
 > [**Dynamic Programming**](DP/DP.md)
 >
-> [**Divde & Conquer**](Div&Conq/Div&Conq.md)
+> [**Divde & Conquer**](DIV&CONQ/Div&Conq.md)
 >
 > [**etc**](etc/etc.md)
