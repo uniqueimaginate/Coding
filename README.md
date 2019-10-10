@@ -9,7 +9,7 @@
 >
 > [**Dynamic Programming**](DP/DP.md)
 >
-> [**Divde & Conquer**](Div&Conq/Div&Conq.md)
+> [**Divde & Conquer**](DIV&CONQ/Div&Conq.md)
 >
 > [**BFS & DFS**](BFS&DFS/BFS&DFS.md)
 >
