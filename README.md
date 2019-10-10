@@ -11,4 +11,6 @@
 >
 > [**Divde & Conquer**](Div&Conq/Div&Conq.md)
 >
+> [**BFS & DFS**](BFS&DFS/BFS&DFS.md)
+>
 > [**etc**](etc/etc.md)
