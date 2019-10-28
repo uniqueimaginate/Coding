@@ -1,33 +1,14 @@
 ## Array & Stack & Queue & List
-```markdown
-1. 2019.9.20 acmicpc.net #10808 Array
-(source : https://www.acmicpc.net/problem/10808)
+1. 2019.9.20 acmicpc.net [**#10808**](https://www.acmicpc.net/problem/10808) Array
+2. 2019.9.20 acmicpc.net [**#1406**](https://www.acmicpc.net/problem/1406) Array
+3. 2019.9.28 acmicpc.net [**#2577**](https://www.acmicpc.net/problem/2577) Array
+4. 2019.9.28 acmicpc.net [**#1475**](https://www.acmicpc.net/problem/1475) Array
+5. 2019.9.30 acmicpc.net [**#1168**](https://www.acmicpc.net/problem/1168) Queue
+6. 2019.9.30 acmicpc.net [**#5397**](https://www.acmicpc.net/problem/5397) List
+7. 2019.10.3 acmicpc.net [**#10828**](https://www.acmicpc.net/problem/10828) Stack
+8. 2019.10.4 acmicpc.net [**#10845**](https://www.acmicpc.net/problem/1084) Queue
+9. 2019.10.4 acmicpc.net [**#10866**](https://www.acmicpc.net/problem/10866) Stack
+10. 2019.10.5 acmicpc.net [**#1874**](https://www.acmicpc.net/problem/1874) Stack
+11. 2019.10.28 acmicpc.net [**#1021**](https://www.acmicpc.net/problem/1021) Deque
+12. 2019.10.28 acmicpc.net [**#2493**](https://www.acmicpc.net/problem/2493) Stack
 
-2. 2019.9.20 acmicpc.net #1406 Array
-(source : https://www.acmicpc.net/problem/1406)
-
-3. 2019.9.28 acmicpc.net #2577 Array
-(source : https://www.acmicpc.net/problem/2577)
-
-4. 2019.9.28 acmicpc.net #1475 Array
-(source : https://www.acmicpc.net/problem/1475)
-
-5. 2019.9.30 acmicpc.net #1168 Queue
-(source : https://www.acmicpc.net/problem/1168)
-
-6. 2019.9.30 acmicpc.net #5397 List
-(source : https://www.acmicpc.net/problem/5397)
-
-7. 2019.10.3 acmicpc.net #10828 Stack
-(source : https://www.acmicpc.net/problem/10828)
-
-8. 2019.10.4 acmicpc.net #10845 Queue
-(source : https://www.acmicpc.net/problem/10845)
-
-9. 2019.10.4 acmicpc.net #10866 Stack
-(source : https://www.acmicpc.net/problem/10866)
-
-10. 2019.10.5 acmicpc.net #1874 Stack
-(source : https://www.acmicpc.net/problem/1874)
-
-```
