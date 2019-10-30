@@ -13,4 +13,5 @@
 12. 2019.10.28 acmicpc.net [**#2493**](https://www.acmicpc.net/problem/2493) Stack
 13. 2019.10.29 acmicpc.net [**#5430**](https://www.acmicpc.net/problem/5430) Deque
 14. 2019.10.29 acmicpc.net [**#9012**](https://www.acmicpc.net/problem/9012) Stack
+15. 2019.10.30 acmicpc.net [**#10799**](https://www.acmicpc.net/problem/10799) Stack
 
