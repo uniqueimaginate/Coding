@@ -15,6 +15,8 @@
 >
 > [Sorting](Sorting/Sorting.md)
 >
+> [Search](Search/Search.md)
+>
 > [**etc**](etc/etc.md)
 >
 > [**CodeForce**](CodeForce/CodeForces.md)
