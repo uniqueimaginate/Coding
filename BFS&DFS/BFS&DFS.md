@@ -4,4 +4,5 @@
 3. 2019.10.10 acmicpc.net [#4963](https://www.acmicpc.net/problem/4963) BFS&DFS
 4. 2019.10.10 acmicpc.net [#7576](https://www.acmicpc.net/problem/7576) BFS&DFS
 5. 2019.10.26 acmicpc.net [#2178](https://www.acmicpc.net/problem/2178) BFS&DFS
+6. 2019.10.31 acmicpc.net [#1926](https://www.acmicpc.net/problem/1926) BFS&DFS
 

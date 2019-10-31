@@ -13,6 +13,8 @@
 >
 > [**BFS & DFS**](BFS&DFS/BFS&DFS.md)
 >
+> [Sorting](Sorting/Sorting.md)
+>
 > [**etc**](etc/etc.md)
 >
 > [**CodeForce**](CodeForce/CodeForces.md)
