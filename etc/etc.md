@@ -7,4 +7,7 @@
 
 3. 2019.5.7 [Programmers.co.kr #K'th_number](https://programmers.co.kr/learn/courses/30/lessons/42748)
 4. 2019.11.1 [#11729](https://www.acmicpc.net/problem/11729)
+5. 2019.11.1 [#1074](https://www.acmicpc.net/problem/1074)
+
+
 ```
