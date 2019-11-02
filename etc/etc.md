@@ -9,4 +9,5 @@
 5. 2019.11.1 [#1074](https://www.acmicpc.net/problem/1074) Recursion
 6. 2019.11.2 [#2447](https://www.acmicpc.net/problem/2447) Recursion
 7. 2019.11.2 [#2448](https://www.acmicpc.net/problem/2448) Recursion
+8. 2019.11.2 [#1992](https://www.acmicpc.net/problem/1992) Recursion
 
