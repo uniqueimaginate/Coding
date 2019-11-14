@@ -11,12 +11,16 @@
 >
 > [**Divde & Conquer**](DIV&CONQ/Div&Conq.md)
 >
-> [**BFS & DFS**](BFS&DFS/BFS&DFS.md)
+> [**Graph**](Graph/Graph.md)
 >
-> [Sorting](Sorting/Sorting.md)
+> [**Sorting**](Sorting/Sorting.md)
 >
-> [Search](Search/Search.md)
+> [**Search**](Search/Search.md)
+>
+> [**Backtracking & Simulation**](Backtrck&Simul/Backtrck&Simul.md)
 >
 > [**etc**](etc/etc.md)
 >
 > [**CodeForce**](CodeForce/CodeForces.md)
+>
+> 
