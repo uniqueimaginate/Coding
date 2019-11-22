@@ -19,6 +19,8 @@
 >
 > [**Backtracking & Simulation**](Backtrck&Simul/Backtrck&Simul.md)
 >
+> [**Greedy**](Greedy/Greedy.md)
+>
 > [**etc**](etc/etc.md)
 >
 > [**CodeForce**](CodeForce/CodeForces.md)
