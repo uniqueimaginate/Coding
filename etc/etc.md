@@ -10,6 +10,5 @@
 6. 2019.11.2 [#2447](https://www.acmicpc.net/problem/2447) Recursion
 7. 2019.11.2 [#2448](https://www.acmicpc.net/problem/2448) Recursion
 8. 2019.11.2 [#1992](https://www.acmicpc.net/problem/1992) Recursion
-9. 2019.11.4 [#15649](https://www.acmicpc.net/problem/15649) Backtracking
-10. 2019.11.4 [#15652](https://www.acmicpc.net/problem/15652) Backtracking
+9. 2019.11.26 [#10809](https://www.acmicpc.net/problem/10809) String
 
