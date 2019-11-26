@@ -6,4 +6,7 @@
 5. 2019.11.15 acmicpc.net [#11718](https://www.acmicpc.net/problem/11718) Merge
 6. 2019.11.25 acmicpc.net [#10814](https://www.acmicpc.net/problem/10814) Sorting
 7. 2019.11.25 acmicpc.net [#10825](https://www.acmicpc.net/problem/10825) Sorting
+8. 2019.11.26 acmicpc.net [#10989](https://www.acmicpc.net/problem/10989) Sorting
+9. 
+
 
