@@ -11,4 +11,7 @@
 7. 2019.11.2 [#2448](https://www.acmicpc.net/problem/2448) Recursion
 8. 2019.11.2 [#1992](https://www.acmicpc.net/problem/1992) Recursion
 9. 2019.11.26 [#10809](https://www.acmicpc.net/problem/10809) String
+10. 2019.11.27 [#10824](https://www.acmicpc.net/problem/10824) String
+11. 2019.11.27 [#11655](https://www.acmicpc.net/problem/11655) String
+12. 2019.11.27 [#2743](https://www.acmicpc.net/problem/2743) String
 
