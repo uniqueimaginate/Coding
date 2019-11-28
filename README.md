@@ -1,6 +1,4 @@
 ## This is a repository which is my PLAYGROUND!
-### Donguk Lee (uniqueimaginate@gmail.com)
-
 > [**Input & Output**](IO/IO.md)
 >
 > [**Math**](Math/Math.md)

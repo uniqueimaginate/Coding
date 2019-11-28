@@ -1,32 +1,37 @@
 #include <iostream>
-#include <queue>
-
+#include <vector>
 using namespace std;
 
-queue<int> q;
+vector<int> vec;
 
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
 
-    int a;
-    int b;
+    int a, b;
     cin >> a >> b;
 
-    for(int i=1; i<=a; i++) q.push(i);
-    cout << '<';
-    for(int i=0; i<a; i++){
-        for(int j=0; j<b-1; j++){
-            q.push(q.front());
-            q.pop();
-        }
-        if(i == a-1){
-            cout << q.front() << '>' << '\n';
+    for(int i=1; i<=a; i++){
+        vec.push_back(i);
+    }
+    cout << "<";
+
+    int pos = b - 1;
+
+    while(a--){
+        cout << vec[pos];
+
+        if(a==0){
+            cout << ">\n";
         }
         else{
-            cout << q.front() << ", ";
-            q.pop();
+            cout << ", ";
         }
+        vec.erase(vec.begin() + pos);
+        pos += b-1;
+        if(vec.size() > 0)
+            pos %= vec.size();
     }
+    
     return 0;
 }
