@@ -12,6 +12,5 @@ int main(){
     string B = c + d;
     long long result = atoll(A.c_str()) + atoll(B.c_str());
     cout << result << endl;
-
     return 0;
 }

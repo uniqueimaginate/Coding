@@ -14,4 +14,6 @@
 10. 2019.11.27 [#10824](https://www.acmicpc.net/problem/10824) String
 11. 2019.11.27 [#11655](https://www.acmicpc.net/problem/11655) String
 12. 2019.11.27 [#2743](https://www.acmicpc.net/problem/2743) String
+13. 2019.11.27 [#10824](https://www.acmicpc.net/problem/10824) String
+14. 2019.11.28 [#10820](https://www.acmicpc.net/problem/10820) String
 
