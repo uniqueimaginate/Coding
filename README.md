@@ -108,10 +108,8 @@ I solved problems from mainly acmicpc.net
 102. 2019.12.27 [#2217](https://www.acmicpc.net/problem/2217) Greedy
 103. 2019.12.27 [#2875](https://www.acmicpc.net/problem/2875) Greedy
 104. 2019.12.27  [#2217](https://www.acmicpc.net/problem/2217) Prime Number
-105. 
-
-
-
+105. 2020.1.11 [#8658](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW1lwyh6WPwDFARC&categoryId=AW1lwyh6WPwDFARC&categoryType=CODE) String
+106. 2020.1.11 [#8673](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW2Jldrqlo4DFASu) Queue
 
 
 
