@@ -7,20 +7,23 @@ using namespace std;
 int n;
 int Max;
 int sum;
+int arr[SIZE];
+double result[SIZE];
 
 int main(){
-
-
     scanf("%d", &n);
-    for(int i=0; i<n; i++){
-        int temp;
-        scanf("%d", &temp);
-        sum += temp;
-        if(temp > Max){
-            Max = temp;
-        }
+    for(int i=0; i<n; ++i){
+        scanf("%d", &arr[i]);
+
+        if(Max < arr[i])
+            Max = arr[i];
     }
 
-    cout << (float)sum / (float)Max << endl;
-    cout << (float)sum / (float)100 * (float)Max << endl;
+    double sum = 0.0f;
+    for(int i=0; i<n; ++i){
+        result[i] = (double)arr[i] / Max * 100;
+        sum += result[i];
+    }
+
+    printf("%.6lf\n", sum / n);
 }
