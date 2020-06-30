@@ -2,7 +2,7 @@
 
 Problem Solving
 
-I solved problems from mainly acmicpc.net
+I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 
 1. 2019.3.25    [Leetcode #172 Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/discuss/52373/Simple-CC%2B%2B-Solution-(with-detailed-explaination))
 2. 2019.3.26    [Leetcode #771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
@@ -124,3 +124,10 @@ I solved problems from mainly acmicpc.net
 118. 2020.6.29  [#2439](https://www.acmicpc.net/problem/2439) IO
 119. 2020.6.29  [#2475](https://www.acmicpc.net/problem/2475) IO
 120. 2020.6.29  [#2562](https://www.acmicpc.net/problem/2562) IO
+121. 2020.6.30  [#2675](https://www.acmicpc.net/problem/2675) String
+122. 2020.6.30  [#2739](https://www.acmicpc.net/problem/2739) IO
+123. 2020.6.30  [#2741](https://www.acmicpc.net/problem/2741) IO
+124. 2020.6.30  [#2742](https://www.acmicpc.net/problem/2742) IO
+125. 2020.6.30  [#2753](https://www.acmicpc.net/problem/2753) IO
+126. 2020.6.30  [#2884](https://www.acmicpc.net/problem/2884) IO
+127. 2020.6.30  [#2908](https://www.acmicpc.net/problem/2908) String
