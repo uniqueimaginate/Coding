@@ -18,4 +18,4 @@ In this book, you can study about lots of algorithms theoretically and practical
 3. Dynamic Programming (DP)
    1. binominal.cpp
    2. jumpgame.cpp
-   3. wildcard.cpp
+   3. wildcard.cpp - <b>It was difficult to me</b>
