@@ -4,5 +4,18 @@ This book is the most famous Algorithm book at Korea.
 
 In this book, you can study about lots of algorithms theoretically and practically. The code in this directory is my code history studying the book.
 
-1. boggle.cpp
-2. picnic.cpp
+1. Brute force
+   1. multiple_for.cpp
+   2. boggle.cpp
+   3. picnic.cpp
+
+2. Divide & Conquer
+   1. fastSum.cpp
+   2. matrixMultiplication.cpp
+   3. mergeSort.cpp
+   4. quickSort.cpp
+
+3. Dynamic Programming (DP)
+   1. binominal.cpp
+   2. jumpgame.cpp
+   3. wildcard.cpp
