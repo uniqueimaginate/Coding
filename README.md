@@ -144,3 +144,12 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 138. 2020.7.2   [#10998](https://www.acmicpc.net/problem/10998) IO
 139. 2020.7.2   [#11654](https://www.acmicpc.net/problem/11654) IO
 140. 2020.7.2   [#10871](https://www.acmicpc.net/problem/10871) Array
+141. 2020.7.6   [#1018](https://www.acmicpc.net/problem/1018) Simulation
+142. 2020.7.6   [#10250](https://www.acmicpc.net/problem/10250) Math
+143. 2020.7.6   [#10816](https://www.acmicpc.net/problem/10816) dictionary
+144. 2020.7.6   [#1085](https://www.acmicpc.net/problem/1085) IO
+145. 2020.7.6   [#1181](https://www.acmicpc.net/problem/1181) Sort
+146. 2020.7.6   [#11866](https://www.acmicpc.net/problem/11866) Queue
+147. 2020.7.6   [#1259](https://www.acmicpc.net/problem/1259) String
+148. 2020.7.6   [#2164](https://www.acmicpc.net/problem/2164) Queue
+149. 2020.7.6   [#2789](https://www.acmicpc.net/problem/2789) IO
