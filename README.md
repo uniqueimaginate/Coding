@@ -153,3 +153,5 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 147. 2020.7.6   [#1259](https://www.acmicpc.net/problem/1259) String
 148. 2020.7.6   [#2164](https://www.acmicpc.net/problem/2164) Queue
 149. 2020.7.6   [#2789](https://www.acmicpc.net/problem/2789) IO
+150. 2020.7.8   [#1436](https://www.acmicpc.net/problem/1436) Search
+151. 2020.7.8   [#1966](https://www.acmicpc.net/problem/1966) Queue
