@@ -2,7 +2,7 @@
 
 This book is the most famous Algorithm book at Korea.
 
-In this book, you can study about lots of algorithms theoretically and practically. The code in this directory is my code history studying the book.
+In this book, you can study lots of algorithms practically. The code in this directory is my code history studying the book.
 
 1. Brute force
    1. multiple_for.cpp
@@ -19,3 +19,10 @@ In this book, you can study about lots of algorithms theoretically and practical
    1. binominal.cpp
    2. jumpgame.cpp
    3. wildcard.cpp - <b>It was difficult to me</b>
+
+4. Linear DataStructure
+   1. dynamicArray.cpp
+   2. josephus.cpp
+
+5. Stack, Queue, Deque
+   1. brackets2.cpp
