@@ -155,3 +155,4 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 149. 2020.7.6   [#2789](https://www.acmicpc.net/problem/2789) IO
 150. 2020.7.8   [#1436](https://www.acmicpc.net/problem/1436) Search
 151. 2020.7.8   [#1966](https://www.acmicpc.net/problem/1966) Queue
+152. 2020.7.9   [#18111](https://www.acmicpc.net/problem/18111) Brute Force
