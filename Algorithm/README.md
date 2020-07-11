@@ -26,3 +26,8 @@ In this book, you can study lots of algorithms practically. The code in this dir
 
 5. Stack, Queue, Deque
    1. brackets2.cpp
+
+6. Tree
+   1. tree.cpp
+   2. traversal.cpp
+   3. fortress.cpp(continue) - <b>It was difficult to me</b>
