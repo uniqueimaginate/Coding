@@ -156,3 +156,6 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 150. 2020.7.8   [#1436](https://www.acmicpc.net/problem/1436) Search
 151. 2020.7.8   [#1966](https://www.acmicpc.net/problem/1966) Queue
 152. 2020.7.9   [#18111](https://www.acmicpc.net/problem/18111) Brute Force
+153. 2020.7.15  [#1068](https://www.acmicpc.net/problem/1068) Tree
+154. 2020.7.15  [#1991](https://www.acmicpc.net/problem/1991) Tree
+155. 2020.7.15  [#4949](https://www.acmicpc.net/problem/4949) Stack
