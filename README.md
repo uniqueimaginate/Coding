@@ -159,3 +159,5 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 153. 2020.7.15  [#1068](https://www.acmicpc.net/problem/1068) Tree
 154. 2020.7.15  [#1991](https://www.acmicpc.net/problem/1991) Tree
 155. 2020.7.15  [#4949](https://www.acmicpc.net/problem/4949) Stack
+156. 2020.7.23  [#2231](https://www.acmicpc.net/problem/2231) Implementation
+157. 2020.7.23  [#4358](https://www.acmicpc.net/problem/4358) Trie
