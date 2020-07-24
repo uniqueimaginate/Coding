@@ -32,6 +32,9 @@ In this book, you can study lots of algorithms practically. The code in this dir
    2. traversal.cpp
    3. fortress.cpp(continue) - <b>It was difficult to me</b>
 
+7. Segment Tree
+   1. rmq.cpp
 
-7. Trie
+
+8. Trie
    1. trie.cpp
