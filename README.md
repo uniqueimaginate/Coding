@@ -161,3 +161,5 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 155. 2020.7.15  [#4949](https://www.acmicpc.net/problem/4949) Stack
 156. 2020.7.25  [#2357](https://www.acmicpc.net/problem/2357) Segment Tree
 157. 2020.7.25  [#2108](https://www.acmicpc.net/problem/2108) Implement
+158. 2020.7.26  [#2292](https://www.acmicpc.net/problem/2292) Implement
+159. 2020.7.26  [#2775](https://www.acmicpc.net/problem/2775) DP
