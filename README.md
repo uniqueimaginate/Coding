@@ -165,3 +165,7 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 157. 2020.7.25  [#2108](https://www.acmicpc.net/problem/2108) Implement
 158. 2020.7.26  [#2292](https://www.acmicpc.net/problem/2292) Implement
 159. 2020.7.26  [#2775](https://www.acmicpc.net/problem/2775) DP
+160. 2020.7.28  [#1654](https://www.acmicpc.net/problem/1654) Binary Searh
+161. 2020.7.28  [#2839](https://www.acmicpc.net/problem/2839) DP
+162. 2020.7.28  [#2869](https://www.acmicpc.net/problem/2869) Implement
+163. 2020.7.28  [#4153](https://www.acmicpc.net/problem/4153) Implement
