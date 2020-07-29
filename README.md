@@ -168,4 +168,9 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 160. 2020.7.28  [#1654](https://www.acmicpc.net/problem/1654) Binary Searh
 161. 2020.7.28  [#2839](https://www.acmicpc.net/problem/2839) DP
 162. 2020.7.28  [#2869](https://www.acmicpc.net/problem/2869) Implement
-163. 2020.7.28  [#4153](https://www.acmicpc.net/problem/4153) Implement
+163. 2020.7.28  [#1003](https://www.acmicpc.net/problem/1003) DP
+164. 2020.7.28  [#1620](https://www.acmicpc.net/problem/1620) Data Structure
+165. 2020.7.28  [#2653](https://www.acmicpc.net/problem/2653) Implement
+166. 2020.7.28  [#11723](https://www.acmicpc.net/problem/11723) Implement
+167. 2020.7.28  [#17626](https://www.acmicpc.net/problem/17626) DP
+168. 2020.7.28  [#6603](https://www.acmicpc.net/problem/6603) Back Tracking

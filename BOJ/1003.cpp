@@ -1,32 +1,22 @@
-#include <iostream>
-#include <string>
+#include <bits/stdc++.h>
 
 using namespace std;
 
-int arr[52];
+pair<int, int> dp[41];
 
 int main(){
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+    dp[0] = make_pair(1,0);
+    dp[1] = make_pair(0,1);
 
-    arr[0] = 0;
-    arr[1] = 1;
-    for(int i=2; i<=40; i++){
-        arr[i] = arr[i-1] + arr[i-2];
+    for(int i=2; i<41; ++i){
+        dp[i].first = dp[i-1].first + dp[i-2].first;
+        dp[i].second = dp[i-1].second + dp[i-2].second;
     }
 
-    int N;
-    cin >> N;
-    while(N--){
-        int temp, zero = 0, one = 0;
-        cin >> temp;
-        string str = to_string(arr[temp]);
-        for(int i=0; i<str.size(); i++){
-            if(str[i] == '1') one++;
-            if(str[i] == '0') zero++;
-        }
-        cout << zero << " " << one << '\n';
-    }
 
-    return 0;
+    int c; cin >> c;
+    while(c--){
+        int temp; cin >> temp;
+        cout << dp[temp].first << " " << dp[temp].second << endl;
+    }
 }
