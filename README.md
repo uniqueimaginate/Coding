@@ -178,3 +178,5 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 170. 2020.7.29  [#15664](https://www.acmicpc.net/problem/15664) Back Tracking
 171. 2020.7.29  [#15665](https://www.acmicpc.net/problem/15665) Back Tracking
 172. 2020.7.29  [#15666](https://www.acmicpc.net/problem/15666) Back Tracking
+173. 2020.7.30  [#1759](https://www.acmicpc.net/problem/1759) Back Tracking
+174. 2020.7.30  [#14425](https://www.acmicpc.net/problem/14425) Trie
