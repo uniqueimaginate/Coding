@@ -180,3 +180,7 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 172. 2020.7.29  [#15666](https://www.acmicpc.net/problem/15666) Back Tracking
 173. 2020.7.30  [#1759](https://www.acmicpc.net/problem/1759) Back Tracking
 174. 2020.7.30  [#14425](https://www.acmicpc.net/problem/14425) Trie
+175. 2020.7.30  [#1764](https://www.acmicpc.net/problem/1764) String
+176. 2020.7.30  [#18870](https://www.acmicpc.net/problem/18870) Map
+177. 2020.7.31  [#14889](https://www.acmicpc.net/problem/14889) Simulation
+178. 2020.7.31  [#14888](ttps://www.acmicpc.net/problem/14888)  Simulation
