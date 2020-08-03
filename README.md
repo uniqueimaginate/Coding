@@ -184,3 +184,4 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 176. 2020.7.30  [#18870](https://www.acmicpc.net/problem/18870) Map
 177. 2020.7.31  [#14889](https://www.acmicpc.net/problem/14889) Simulation
 178. 2020.7.31  [#14888](ttps://www.acmicpc.net/problem/14888)  Simulation
+179. 2020.8.3   [#1722](ttps://www.acmicpc.net/problem/1722)  Simulation
