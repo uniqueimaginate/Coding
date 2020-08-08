@@ -193,3 +193,6 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 185. 2020.8.6   [#7662](https://www.acmicpc.net/problem/7662)  Multiset
 186. 2020.8.7   [#2630](https://www.acmicpc.net/problem/2630)  Recursive
 187. 2020.8.7   [#11399](https://www.acmicpc.net/problem/11399)  Greedy
+188. 2020.8.8   [#1759](https://www.acmicpc.net/problem/11399)  String
+189. 2020.8.8   [#1764](https://www.acmicpc.net/problem/11399)  String
+190. 2020.8.8   [#14425](https://www.acmicpc.net/problem/11399)  Trie
