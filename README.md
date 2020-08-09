@@ -196,3 +196,4 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 188. 2020.8.8   [#1759](https://www.acmicpc.net/problem/11399)  String
 189. 2020.8.8   [#1764](https://www.acmicpc.net/problem/11399)  String
 190. 2020.8.8   [#14425](https://www.acmicpc.net/problem/11399)  Trie
+191. 2020.8.9   [#7569](https://www.acmicpc.net/problem/7569) BFS
