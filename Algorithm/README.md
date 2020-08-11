@@ -8,6 +8,7 @@ In this book, you can study lots of algorithms practically. The code in this dir
    1. multiple_for.cpp
    2. boggle.cpp
    3. picnic.cpp
+   4. boardcover.cpp
 
 2. Divide & Conquer
    1. fastSum.cpp
