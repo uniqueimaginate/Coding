@@ -199,3 +199,4 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 191. 2020.8.9   [#7569](https://www.acmicpc.net/problem/7569) BFS
 192. 2020.8.10  [#5525](https://www.acmicpc.net/problem/5525) String
 193. 2020.8.10  [#1676](https://www.acmicpc.net/problem/1676) Implementation
+194. 2020.8.11  [#6198](https://www.acmicpc.net/problem/6198) Stack
