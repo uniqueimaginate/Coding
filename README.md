@@ -200,3 +200,4 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 192. 2020.8.10  [#5525](https://www.acmicpc.net/problem/5525) String
 193. 2020.8.10  [#1676](https://www.acmicpc.net/problem/1676) Implementation
 194. 2020.8.11  [#6198](https://www.acmicpc.net/problem/6198) Stack
+195. 2020.8.12  [#1918](https://www.acmicpc.net/problem/1918) Stack
