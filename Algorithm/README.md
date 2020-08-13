@@ -19,6 +19,8 @@ Peronally, I think implementing brute force using dfs and recursive is important
    2. matrixMultiplication.cpp
    3. mergeSort.cpp
    4. quickSort.cpp
+   5. quadtree.cpp
+      구현하는 아이디어가 매우 참신하다고 생각, string stl 을 잘 사용한다.
 
 3. Dynamic Programming (DP)
    1. binominal.cpp
