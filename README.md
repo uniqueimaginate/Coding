@@ -201,3 +201,6 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 193. 2020.8.10  [#1676](https://www.acmicpc.net/problem/1676) Implementation
 194. 2020.8.11  [#6198](https://www.acmicpc.net/problem/6198) Stack
 195. 2020.8.12  [#1918](https://www.acmicpc.net/problem/1918) Stack
+196. 2020.8.13  [#2606](https://www.acmicpc.net/problem/2606) BFS
+197. 2020.8.13  [#11724](https://www.acmicpc.net/problem/11724) BFS
+198. 2020.9.14  [#1946](https://www.acmicpc.net/problem/1946) Greedy
