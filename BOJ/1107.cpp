@@ -1,38 +1,48 @@
-#include <iostream>
-#include <string>
-#include <vector>
+#include <bits/stdc++.h>
 
 using namespace std;
 
-string stringChannel;
-int channel;
-int M;
+bool broken[10];
+int N, M;
 
-vector<int> vec;
-
+int check(int num){
+    int len = 0;
+    if(num == 0){
+        if(!broken[0])
+            return 1;
+    }
+    else{
+        while(num){
+            if(!broken[num % 10]){
+                len++;
+                num /= 10;
+            }
+            else return 0;
+        }
+    }
+    return len;
+}
 
 int main(){
-    cin >> stringChannel >> M;
-    channel = stoi(stringChannel);
-
-    for(int i=0; i<10; i++){
-        vec.push_back(i);
+    ios::sync_with_stdio(false); cin.tie(NULL);
+    cin >> N >> M;
+    for(int i=0; i<M; ++i){
+        int temp; cin >> temp;
+        broken[temp] = true;
     }
 
-    while(M--){
-        int temp; cin >> temp;
-        for(int i=0; i<vec.size(); i++){
-            if(vec[i] == temp){
-                vec.erase(vec.begin() + i);
-            }
+
+    int naive = abs(N - 100);
+    int answer = 987654321;
+
+    for(int i=0; i<=1000000; ++i){
+        int temp = check(i);
+        int tempA;
+        if(temp){
+            tempA = temp + abs(i-N);
+            answer = min(answer, tempA);
         }
     }
 
-
-    for(int i=0; i<vec.size(); i++){
-        cout << vec[i] << " ";
-    }
-
-
-    return 0;
+    cout << min(naive, answer) << endl;
 }
