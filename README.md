@@ -207,4 +207,6 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 199. 2020.9.15  [#6987](https://www.acmicpc.net/problem/6987) Back Tracking
 200. 2020.9.16  [#1038](https://www.acmicpc.net/problem/1038) Back Tracking
 201. 2020.9.16  [#1107](https://www.acmicpc.net/problem/1107) Brute Force
-202. 2020.9.21  [#19598]https://www.acmicpc.net/problem/19598) Greedy
+202. 2020.9.21  [#19598](https://www.acmicpc.net/problem/19598) Greedy
+203. 2020.10.11 [#5750](https://www.acmicpc.net/problem/5750) Sort
+204. 2020.10.11 [#11931](https://www.acmicpc.net/problem/11931) Sort

@@ -4,3 +4,5 @@ pbcopy
 */.vscode
 .vscode/
 a.cpp
+*.bin
+*/.cph/
