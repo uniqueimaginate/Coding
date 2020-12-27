@@ -211,3 +211,4 @@ I solved problems from mainly acmicpc.net(Same as LeetCode running in S.Korea)
 203. 2020.9.22  [#1080](https://www.acmicpc.net/problem/1080) Greedy
 204. 2020.10.11 [#5750](https://www.acmicpc.net/problem/5750) Sort
 205. 2020.10.11 [#11931](https://www.acmicpc.net/problem/11931) Sort
+206. 2020.10.12 [#1138](https://www.acmicpc.net/problem/1138) Greedy
