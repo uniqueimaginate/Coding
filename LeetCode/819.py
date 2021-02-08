@@ -4,4 +4,4 @@ class Solution:
         counts = collections.Counter(words)
         
         return counts.most_common(1)[0][0]
-        
+    

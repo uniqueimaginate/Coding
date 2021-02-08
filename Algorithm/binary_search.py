@@ -1,4 +1,5 @@
 import math
+import bisect
 
 def binary_search(list, target):
     left = 0
@@ -15,8 +16,11 @@ def binary_search(list, target):
     if target == list[right]:
         return right
     return None
-            
+
 
 arr = [2, 4, 7, 12, 15, 21, 34, 34, 46, 57, 70, 82, 86, 92, 99]
 
 print(binary_search(arr, 11))
+
+print(bisect.bisect(arr, 11))
+# bisect 는 정렬 되어 있을 경우 들어갈 자리를 알려준다. 
