@@ -18,11 +18,12 @@
 
 1. Array
    > 1, 42, 15, 561, 238, 121
-2. Stack
-3. Queue
-4. Deque
+2. Linked List
+   > 234, 21, 206, 2, 24, 328, 92
+3. Stack, Queue
+4. Deque, Priority Queue
 5. Tree, BST, Trie, Segment Tree
-6. Heap, Priority Queue
+6. Heap
 7. Graph
 8. Hash Table
 
