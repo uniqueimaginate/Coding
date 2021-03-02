@@ -23,10 +23,12 @@
 3. Stack, Queue
    > 20, 739, 225, 622, 316
 4. Deque, Priority Queue
-5. Tree, BST, Trie, Segment Tree
-6. Heap
-7. Graph
-8. Hash Table
+5. Hash Table
+   > 771
+6. Graph
+   > 200, 17, 46, 77, 39, 78, 332, 207
+7. Tree, BST, Trie, Segment Tree
+8. Heap
 
 ## 알고리즘
 
