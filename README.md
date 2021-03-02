@@ -27,8 +27,10 @@
    > 771
 6. Graph
    > 200, 17, 46, 77, 39, 78, 332, 207
-7. Tree, BST, Trie, Segment Tree
-8. Heap
+7. Shortest Path
+   > 743, 787
+8. Tree, BST, Trie, Segment Tree
+9. Heap
 
 ## 알고리즘
 
