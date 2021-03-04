@@ -30,12 +30,16 @@
 7. Shortest Path
    > 743, 787
 8. Tree
-   > 104, 543, 687, 226, 617, 297, 110, 310, 1038, 938, 738
+   > 104, 543, 687, 226, 617, 297, 110, 310, 1038, 938, 738, 105
 9. Heap
+   > 215
+10. Trie
+    > 208(Trie.py), 336(Too hard)
 
 ## 알고리즘
 
 1. Sorting
+   > 148, 56, 147, 179, 242, 973
 2. Brute Force
 3. Binary Search
 4. Greedy Algorithm
