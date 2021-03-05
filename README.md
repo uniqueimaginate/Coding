@@ -39,13 +39,14 @@
 ## 알고리즘
 
 1. Sorting
-   > 148, 56, 147, 179, 242, 973
-2. Brute Force
-3. Binary Search
+   > 148, 56, 147, 179, 242, 75, 973
+2. Binary Search
+   > 704, 33
+3. Bit Operation
+   > 136, 461, 371, 393, 191
 4. Greedy Algorithm
 5. Divide & Conquer
-6. Bit Operation
-7. Dynamic Programming
-8. Graph Algorithm
+6. Dynamic Programming
+7. Graph Algorithm
 
 ## 기타 참고
