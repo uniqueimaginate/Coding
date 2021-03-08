@@ -21,7 +21,8 @@
 2. Linked List
    > 234, 21, 206, 2, 24, 328, 92
 3. Stack, Queue
-   > 20, 739, 225, 622, 316
+   > 책: 20, 739, 225, 622, 316
+   > 856
 4. Deque, Priority Queue
 5. Hash Table
    > 771
