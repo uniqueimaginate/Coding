@@ -24,8 +24,9 @@
    > 책: 20, 739, 225, 622, 316
    > 856
 4. Deque, Priority Queue
+   > 책: 23
 5. Hash Table
-   > 771
+   > 771, 347
 6. Graph
    > 200, 17, 46, 77, 39, 78, 332, 207
 7. Shortest Path
