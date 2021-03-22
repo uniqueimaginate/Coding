@@ -9,24 +9,28 @@ graph = {
 }
 
 discovered = []
+
+
 def recursive_dfs_global(v):
     global discovered
     discovered.append(v)
-    
+
     for next in graph[v]:
         if next not in discovered:
             discovered = recursive_dfs_global(next)
-            
+
     return discovered
 
-def recursive_dfs_local(v, discovered = []):
+
+def recursive_dfs_local(v, discovered=[]):
     discovered.append(v)
-    
+
     for next in graph[v]:
         if next not in discovered:
             discovered = recursive_dfs_local(next, discovered)
-            
+
     return discovered
+
 
 def stack_dfs(start):
     stack = [start]
@@ -37,14 +41,31 @@ def stack_dfs(start):
             discovered.append(v)
             for next in graph[v]:
                 stack.append(next)
-            
-    return discovered
-        
-    
 
-print(recursive_dfs_local(1))
-print(stack_dfs(1))
+    return discovered
+
+
+# print(recursive_dfs_local(1))
+# print(stack_dfs(1))
 
 
 # [1, 2, 5, 6, 7, 3, 4]
 # [1, 4, 3, 5, 7, 6, 2]
+
+
+def stack_dfss(v):
+    stack = [v]
+    discovered = []
+
+    while stack:
+        top = stack.pop()
+
+        if top not in discovered:
+            discovered.append(top)
+            for next in graph[top]:
+                stack.append(next)
+
+    return discovered
+
+
+print(stack_dfss(1))
