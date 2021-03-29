@@ -7,3 +7,4 @@ a.cpp
 *.bin
 .cph/*
 Archive/BOJ/.cph
+Coding Test/.cph/
