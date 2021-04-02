@@ -1,12 +1,10 @@
 T = int(input())
 origin = 151
 table_size = 352
-
 N = M = K = 0
 table = []
 cells = []
 active = []
-
 
 def check():
     global table
@@ -16,7 +14,6 @@ def check():
             if table[i][j][1] != 0 and table[i][j][0] != -2:
                 count += 1
     return count
-
 
 def move_active():
     global table, active
@@ -30,8 +27,7 @@ def move_active():
                 new_x, new_y = i + dx, j + dy
                 if table[new_x][new_y][0] == 0 and table[new_x][new_y][1] == 0:
                     table[new_x][new_y][1] = case
-                    table[new_x][new_y][0] = -1
-                    
+                    table[new_x][new_y][0] = -1         
         active = []
 
 
@@ -48,8 +44,6 @@ def set_active_inactive():
                     active.append((i, j, table[i][j][1]))
                 if table[i][j][0] - table[i][j][1] >= table[i][j][1]:
                     table[i][j][0] = -2       
-                       
-
 
 for tc in range(1, T+1):
     N, M, K = list(map(int, input().rstrip().split()))
