@@ -6,5 +6,5 @@ pbcopy
 a.cpp
 *.bin
 .cph/*
-Archive/BOJ/.cph
+Problem_Solving/BOJ/.cph
 Coding Test/.cph/
