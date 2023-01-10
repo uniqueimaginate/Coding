@@ -1,24 +1,16 @@
-# 자료구조 및 알고리즘 복습
-
-**취업을 준비함에 있어 자료구조와 알고리즘 공부는 필수 입니다.**
-
-필자는 아래의 주제에 맞춰 C++ 또는 Python 으로 각각을 구현하고자 합니다.
+# Data Structure & Algorithms
 
 ## Coding Test
 
-이 폴더는 '파이썬 알고리즘 인터뷰' 책을 보면서 풀이한 코드가 있습니다.
+All numbers are the number of Leetcode problems
 
-모든 문제는 Leetcode 에 있습니다.
+### Warm up
 
-숫자는 Leetcode 문제 번호 입니다.
-
-### 준비운동
-
-파이썬 문자열 조작
+Strings
 
 > 125, 344, 937, 819, 49, 5
 
-### 자료구조
+### Data Structure
 
 1. Array
    > 1, 42, 15, 561, 238, 121
@@ -42,7 +34,7 @@
 10. Trie
     > 208(Trie.py), 336(Too hard)
 
-### 알고리즘
+### Algorithm
 
 1. Sorting
    > 148, 56, 147, 179, 242, 75, 973
@@ -59,15 +51,8 @@
 7. Dynamic Programming
    > 509, 53, 70, 198
 
-## Problem Solving
 
-이 폴더에는 공부하면서 제가 풀었던 다양한 문제들이 있습니다.
-
-1. BOJ, LeetCode, Programmers 플랫폼에서 풀었던 문제에 대한 코드
-2. 책 '알고리즘 문제해결전략'을 공부하면서 풀었던 문제에 대한 코드
-3. 책 'Cracking the Coding Interview'을 공부하면서 풀었던 문제에 대한 코드
-
-### 2021.5.7 까지 총 푼 문제
+### Problems I solved until 5.7.2021
 
 BOJ: 298  
 Programmers: 87  
